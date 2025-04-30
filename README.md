@@ -1,0 +1,2 @@
+# Next-Wave-Supply-Co-Performance-Analysis-Report-For-2019
+The Next Wave Supply Co. 2019 performance analysis reveals that New York and Portland were key revenue drivers, with Beverages being the top product category. Strategic recommendations include expanding high-performing categories, targeting high-value transactions, and improving underperforming regions and salesforce efficiency to ensure growth
