@@ -43,6 +43,7 @@ The bar chart reveals significant customer concentration for Next Wave Supply Co
 The sales trend shows fluctuations throughout the year, with noticeable peaks in June ($55,601.61), October ($53,033.59), and a significant spike in December ($66,642.78), which was the best month for sales, likely due to holiday shopping. Also, sales hit their lowest point in February ($19,955.00), making it the worst month, possibly due to a post-holiday spending dip. Despite some mid-year declines, overall sales rebounded strongly toward the end of the year.
 
 **Sales By Region**
+
 ![image](https://github.com/user-attachments/assets/0d586426-b080-49fa-ac33-262f7449db40)
 
 The sales distribution across regions shows that the North performed the best, generating $141,660.34, followed by the East with $108,275.51. The West and South had relatively lower sales, with $93,848.33 and $91,251.98, respectively. This indicates that the North is the strongest-performing region, while the South recorded the lowest sales. The significant gap suggests potential factors such as market demand, customer base, or sales strategies influencing regional performance.
@@ -78,6 +79,7 @@ New York maintained its position as the top performing state with $6.42M in sale
 A consistent pattern shows men’s products generally outperforming their women’s equivalents across categories, suggesting opportunities for growth in the women’s segments.
 
 **RECOMMENDATIONS**
+
 ![image](https://github.com/user-attachments/assets/6022563a-ea29-4645-8c76-be08837a894d)
 
 Expand High-Performing Categories — Since Beverages significantly outperformed other categories, the company should consider expanding its product line within this segment or introducing complementary products. Additionally, marketing efforts should focus on promoting Sauces and Jams & Preserves, which also showed strong performance but have room for growth.
